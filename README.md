@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Berg</h1>
+
 <h3 align="center">Vue.js, Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddev76&label=Profile%20views&color=0e75b6&style=flat" alt="daviddev76" /> </p>
@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Vue.js, Laravel**
 
 - 💬 Ask me about **Vue.js, Laravel**
-
-- 📫 How to reach me **davidraym33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
